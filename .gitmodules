@@ -1,0 +1,3 @@
+[submodule "themes/spudlab-hugo-theme"]
+	path = themes/spudlab-hugo-theme
+	url = https://github.com/spudlab-xyz/spudlab-hugo-theme

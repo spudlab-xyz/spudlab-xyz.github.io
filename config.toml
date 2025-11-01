@@ -1,8 +1,5 @@
 baseURL = 'https://spudlab-xyz.github.io/'
 languageCode = 'en-us'
 title = 'SpudLab'
-theme = 'blank'
-
-[params]
-  description = 'SpudLab is a community-driven space for open-source science, tech, and data projects. We build and share tools, libraries, and resources to help developers, researchers, and curious minds explore and create.'
+theme = 'spudlab-hugo-theme'
 
