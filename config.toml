@@ -3,3 +3,7 @@ languageCode = 'en-us'
 title = 'SpudLab'
 theme = 'spudlab-hugo-theme'
 
+[params]
+  slogan = "Open science for everyone."
+  repos = 4
+  git = "github.com/spudlab-xyz"
