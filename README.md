@@ -5,6 +5,7 @@
 [![License](https://img.shields.io/github/license/spudlab-xyz/spudlab-xyz.github.io?style=flat-square)](LICENSE)
 [![GitHub last commit](https://img.shields.io/github/last-commit/spudlab-xyz/spudlab-xyz.github.io?style=flat-square)](https://github.com/spudlab-xyz/spudlab-xyz.github.io/commits/main)
 [![GitHub issues](https://img.shields.io/github/issues/spudlab-xyz/spudlab-xyz.github.io?style=flat-square)](https://github.com/spudlab-xyz/spudlab-xyz.github.io/issues)
+[![GitHub contributors](https://img.shields.io/github/contributors/spudlab-xyz/spudlab-xyz.github.io?style=flat-square)](https://github.com/spudlab-xyz/spudlab-xyz.github.io/graphs/contributors)
 [![GitHub stars](https://img.shields.io/github/stars/spudlab-xyz/spudlab-xyz.github.io?style=flat-square)](https://github.com/spudlab-xyz/spudlab-xyz.github.io/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/spudlab-xyz/spudlab-xyz.github.io?style=flat-square)](https://github.com/spudlab-xyz/spudlab-xyz.github.io/network/members)
 
