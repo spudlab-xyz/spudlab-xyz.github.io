@@ -1,3 +1,0 @@
-# spudlab-site
-
-spudlab website
