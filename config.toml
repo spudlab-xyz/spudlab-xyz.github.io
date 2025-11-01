@@ -1,4 +1,4 @@
-baseURL = 'https://spudlab.xyz/'
+baseURL = 'https://spudlab-xyz.github.io/'
 languageCode = 'en-us'
 title = 'SpudLab'
 theme = 'blank'
