@@ -49,8 +49,7 @@ params:
 
   homepage:
     latestTitle: From the lab
-    latestCount: 3
-    latestURL: /projects/
+    latestCount: 6
 
   footer:
     description: Open-source software and hardware for collecting, sharing, and understanding scientific data.
