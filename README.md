@@ -36,4 +36,4 @@ Place images, data, or downloads used only by an entry beside its `index.md`. Se
 
 ## Deployment
 
-GitHub Pages is configured and ready to deploy this site with GitHub Actions. Pushes to `main` are built and published automatically by the Pages workflow; a deployment can also be started manually from the repository's **Actions** tab.
+GitHub Pages is configured and ready to deploy this site with GitHub Actions. Pushes to `main` are built and published automatically by the Pages workflow. A daily build at 00:15 UTC publishes newly eligible scheduled content, and a deployment can also be started manually from the repository's **Actions** tab.
